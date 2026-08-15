@@ -8,9 +8,9 @@ export const Route = createFileRoute("/")({
 });
 
 const stats = [
-  { icon: Library, label: "Total Books", value: "12,400+" },
+  { icon: Library, label: "Total Books", value: "300+" },
   { icon: FolderOpen, label: "Categories", value: "48" },
-  { icon: UserCheck, label: "Members", value: "3,200" },
+  { icon: UserCheck, label: "Members", value: "20+" },
   { icon: CalendarDays, label: "Events", value: "120" },
 ];
 
